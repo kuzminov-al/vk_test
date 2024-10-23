@@ -3,7 +3,7 @@
 ## Структура проекта
 
 - **main.py**: Скрипт для преобразования данных и вывода предсказаний в файл `submission.csv`.
-- **Analysis.ipynb**: Jupyter Notebook с EDA анализом и проверкой гипотез.
+- **analysis.ipynb**: Jupyter Notebook с EDA анализом и проверкой гипотез.
 - **data_preprocessing.py**: Скрипт для предобработки данных.
 - **model.py**: Содержит архитектуру нейронной сети.
 - **requirements.txt**: Список необходимых библиотек.
